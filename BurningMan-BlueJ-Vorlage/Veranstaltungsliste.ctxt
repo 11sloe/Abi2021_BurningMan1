@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Veranstaltungsliste
+comment1.params=
+comment1.target=Veranstaltungsliste()
+comment2.params=v
+comment2.target=void\ vorneEinfuegen(Veranstaltung)
+comment3.params=v
+comment3.target=void\ sortiertEinfuegen(Veranstaltung)
+comment4.params=
+comment4.target=void\ ausgeben()
+numComments=5

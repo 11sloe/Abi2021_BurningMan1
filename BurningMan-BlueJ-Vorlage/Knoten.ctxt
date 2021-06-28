@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=inhalt\ nachfolger
+comment1.target=Knoten(Veranstaltung,\ Listenelement)
+comment2.params=
+comment2.target=void\ ausgeben()
+numComments=3
