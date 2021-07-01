@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=inhalt\ naechsterLinks\ naechsterRechts
+comment1.target=Knoten(Kunstwerk,\ Baumelement,\ Baumelement)
+comment2.params=
+comment2.target=void\ ausgeben()
+comment3.params=k
+comment3.target=Baumelement\ einfuegen(Kunstwerk)
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Baumelement
+comment1.params=
+comment1.target=void\ ausgeben()
+comment2.params=k
+comment2.target=Baumelement\ einfuegen(Kunstwerk)
+numComments=3
