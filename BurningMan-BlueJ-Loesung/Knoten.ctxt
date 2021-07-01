@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=inhalt\ nachfolger
+comment1.target=Knoten(Veranstaltung,\ Listenelement)
+comment2.params=
+comment2.target=void\ ausgeben()
+comment3.params=v
+comment3.target=Listenelement\ sortiertEinfuegen(Veranstaltung)
+comment4.params=tag\ zeitfenster
+comment4.target=int\ anzahlGeben(int,\ int)
+comment5.params=tag\ zeitfenster
+comment5.target=Listenelement\ m(int,\ int)
+numComments=6

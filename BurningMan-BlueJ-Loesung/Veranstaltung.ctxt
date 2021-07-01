@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Veranstaltung
+comment1.params=tag\ zeitfenster\ name
+comment1.target=Veranstaltung(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTag()
+comment3.params=
+comment3.target=int\ getZeitfenster()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=void\ infosAusgeben()
+comment6.params=v
+comment6.target=boolean\ istKleiner(Veranstaltung)
+comment7.params=tag_\ zeitfenster_
+comment7.target=boolean\ findetStattAm(int,\ int)
+comment8.params=
+comment8.target=int\ tagGeben()
+comment9.params=
+comment9.target=int\ zeitfensterGeben()
+numComments=10
