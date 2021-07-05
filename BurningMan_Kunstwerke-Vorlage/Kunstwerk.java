@@ -16,7 +16,7 @@ public class Kunstwerk {
 
     public void infosAusgeben()
     {
-        System.out.println(name);
+        System.out.println(name + " " + ort.getName() );
     }
 
     public boolean istKleiner(Kunstwerk k)
